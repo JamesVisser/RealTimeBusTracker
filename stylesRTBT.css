@@ -1,0 +1,29 @@
+body { 
+    margin: 0;
+    padding: 0;
+  }
+
+#map  {
+    position: absolute;
+    border-style: ridge;
+    border-width: 12px;
+    border-color:lightgoldenrodyellow;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }   
+
+.map-overlay { 
+    position: absolute; 
+    left: 0; 
+    padding: 10px; 
+  }
+
+.button {
+    padding: 5px;
+    font-size: 2em; 
+    color: lightgoldenrodyellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    background-color: rgba(54, 117, 212, 0.616);
+  }
+
