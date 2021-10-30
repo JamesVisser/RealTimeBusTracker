@@ -1,3 +1,4 @@
+/** this is my access key unique to me. if developers would like there own go to mapBox.com and create a free account */
 mapboxgl.accessToken = 'pk.eyJ1IjoianZpc3MiLCJhIjoiY2t1dWtseTh6MGd6MzMwbGZveGYybm9qcCJ9.Eo_4eWzoNkvsm-Ncouq8Pw';
     var map = new mapboxgl.Map({
     container: 'map',
