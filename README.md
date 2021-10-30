@@ -1,4 +1,5 @@
 •   This project is called: "Real Time Bus Tracker".
+In this repository I renamed the index and styles file to indexRTBT.html and stylesRTBT.css so I could embed them with the main pages index program.
 •	This project shows: the Victor Valley Transit bus line 22 located in Southern California.The map displays Victorville with a starting marker located at the Victorville Transportation Center the buss route 22 then makes six stops with Heledale being the last one. Then turning around to travel the same stops until the Victorville Transfer Center. I made improvements with CSS to add a border, color button with opacity, and all new grid points. 
 •	How this Project Runs: Click on the blue button that states Victor Valley Transit - Click to Show Stops for Bus 22 and watch the marker move to the different bus stop locations along the route.
 •	Future improvements: I plan on recieving input later from users on what they would like to see or what functionality the might want coded into the program.
